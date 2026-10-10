@@ -1,0 +1,16 @@
+body { font-family: sans-serif; margin: 2rem; }
+input, textarea, select, button { 
+  padding: 0.5rem; 
+  margin: 0.5rem 0; 
+  display: block; 
+  width: 100%; 
+  max-width: 400px; 
+  box-sizing: border-box; 
+}
+button { 
+  background: #007bff; 
+  color: white; 
+  border: none; 
+  cursor: pointer; 
+}
+button:hover { background: #0056b3; }
